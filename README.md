@@ -1,8 +1,9 @@
 **Burbuja vs Formas**
+
 by: Felipe Melgarejo
 
 Este es un juego de supervivencia y estrategia en el que controlas a una burbuja azul en un peligroso mundo geométrico ¡¡cualquier vértice te puede ponchar!!
-Deberás esquivar a las molestos enemigos puntiagudos (triángulos, cuadrados y rectángulos) mientras recolectas ítems "X" para poder avanzar de nivel. El objetivo es completar los 3 niveles sin perder tus 5 vidas. ¿Podrás lograrlo?
+Deberás esquivar a los molestos enemigos puntiagudos (triángulos, cuadrados y rectángulos) mientras recolectas ítems "X" para poder avanzar de nivel. El objetivo es completar los 3 niveles sin perder tus 5 vidas. ¿Podrás lograrlo?
 
 **Controles:**
 - Teclas ↑ ↓ → ← para mover la burbuja.
